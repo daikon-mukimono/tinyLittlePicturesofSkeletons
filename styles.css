@@ -19,3 +19,7 @@ body{
    max-width: 100%;
    max-height: auto;
  }
+
+.info{
+  margin: 30px;
+}
